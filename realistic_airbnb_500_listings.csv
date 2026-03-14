@@ -1,0 +1,501 @@
+accommodates,bedrooms,bathrooms,number_of_reviews,review_scores_rating,reviews_per_month,availability_365,room_type,neighbourhood_group,price
+5,2,1.6,105,99.8,3.4,250,Entire home/apt,Suburbs,755.17
+12,5,3.0,165,79.6,3.75,116,Private room,Suburbs,406.1
+6,3,2.5,142,95.6,3.12,129,Entire home/apt,Waterfront,861.65
+4,2,1.6,151,94.7,3.08,116,Entire home/apt,Downtown,551.17
+2,1,1.7,141,94.4,3.26,190,Entire home/apt,Suburbs,416.71
+2,1,1.0,160,93.1,3.45,205,Entire home/apt,City Center,507.59
+2,1,1.3,155,93.2,3.98,103,Entire home/apt,Suburbs,439.59
+8,4,2.8,145,98.4,3.64,115,Entire home/apt,Waterfront,636.85
+4,2,2.2,135,94.7,2.84,190,Private room,Historic Quarter,575.47
+7,3,2.0,136,93.1,3.69,138,Entire home/apt,City Center,556.43
+4,1,1.0,148,97.7,4.46,173,Entire home/apt,Waterfront,427.12
+10,5,2.9,169,94.1,4.4,125,Entire home/apt,Historic Quarter,489.92
+7,3,1.9,121,94.6,1.75,182,Entire home/apt,City Center,711.98
+3,1,1.4,133,100.0,4.32,178,Entire home/apt,Business District,570.92
+4,1,1.4,148,89.8,4.07,154,Entire home/apt,Downtown,324.07
+2,1,1.0,153,84.4,4.8,130,Private room,Downtown,560.45
+4,1,1.6,188,92.4,5.25,30,Private room,Waterfront,172.48
+4,2,1.8,124,93.1,3.75,184,Private room,Historic Quarter,668.3
+5,2,2.1,115,95.6,2.98,239,Entire home/apt,Downtown,703.79
+3,1,1.0,178,92.5,4.32,49,Entire home/apt,Historic Quarter,588.91
+5,2,1.5,134,95.8,3.54,135,Shared room,Historic Quarter,275.93
+3,1,1.6,146,100.0,3.3,158,Entire home/apt,Waterfront,631.02
+4,1,1.2,146,96.0,3.87,147,Entire home/apt,Waterfront,796.04
+4,2,1.8,64,96.9,0.29,281,Entire home/apt,Waterfront,675.73
+4,2,1.8,173,91.4,4.35,84,Entire home/apt,Downtown,423.03
+8,3,2.2,132,85.1,3.97,201,Entire home/apt,Waterfront,631.46
+2,1,1.2,123,80.5,3.12,181,Entire home/apt,Downtown,817.64
+5,2,1.8,63,89.4,2.44,291,Private room,Waterfront,1297.5
+4,2,1.6,172,79.1,4.17,116,Entire home/apt,Suburbs,494.8
+3,1,1.6,150,94.6,4.25,145,Private room,Historic Quarter,567.89
+6,2,1.8,131,90.1,2.84,187,Private room,Waterfront,708.61
+2,1,1.4,160,85.4,4.48,130,Private room,City Center,214.79
+4,1,2.2,139,92.7,3.59,120,Private room,Historic Quarter,981.35
+8,4,2.3,166,88.3,4.04,148,Hotel room,Historic Quarter,335.97
+11,5,3.4,159,94.3,2.69,151,Entire home/apt,Waterfront,861.76
+8,3,1.4,174,95.5,4.22,40,Entire home/apt,Business District,640.47
+2,1,1.0,113,88.5,2.93,175,Entire home/apt,Waterfront,504.74
+3,1,1.0,32,90.8,1.21,348,Private room,Historic Quarter,1546.92
+8,3,1.8,146,93.1,4.43,91,Shared room,City Center,328.3
+6,2,1.9,151,85.0,4.79,166,Entire home/apt,Historic Quarter,475.62
+2,1,1.5,132,93.1,3.92,162,Shared room,City Center,711.24
+4,2,1.7,131,84.8,2.99,208,Entire home/apt,Downtown,726.64
+2,1,1.4,152,94.8,3.65,136,Shared room,Suburbs,689.6
+9,4,2.8,166,89.8,4.52,94,Entire home/apt,Historic Quarter,637.65
+2,1,1.6,163,84.8,4.33,129,Entire home/apt,Waterfront,563.27
+8,3,1.8,60,89.1,2.31,274,Entire home/apt,Downtown,1283.15
+4,1,1.3,148,89.3,4.94,118,Entire home/apt,Suburbs,361.92
+4,2,1.8,148,97.3,4.83,209,Entire home/apt,Waterfront,513.47
+4,2,1.9,134,92.9,4.1,134,Entire home/apt,Business District,738.29
+4,1,1.2,165,87.2,4.39,50,Private room,Waterfront,306.46
+11,5,3.0,117,100.0,3.6,236,Entire home/apt,City Center,556.83
+6,3,2.2,141,95.1,4.36,135,Entire home/apt,City Center,723.25
+8,4,2.4,104,90.3,2.53,200,Private room,Business District,873.17
+10,4,2.4,147,84.2,3.41,133,Private room,Downtown,436.41
+4,2,1.8,148,89.9,3.32,125,Entire home/apt,Suburbs,501.35
+9,4,2.6,144,90.9,3.16,126,Entire home/apt,Waterfront,506.07
+4,1,1.6,148,93.8,3.01,113,Entire home/apt,City Center,439.18
+2,1,1.1,94,95.0,2.47,225,Entire home/apt,Downtown,798.81
+4,1,1.3,161,96.0,3.53,111,Private room,Business District,360.05
+2,1,1.3,177,83.9,4.03,121,Entire home/apt,Historic Quarter,365.71
+4,2,2.0,146,93.0,4.0,160,Entire home/apt,City Center,590.28
+2,1,1.1,155,91.2,3.97,104,Private room,Business District,636.5
+7,3,2.3,137,100.0,3.64,162,Entire home/apt,Waterfront,478.01
+5,2,1.9,154,92.3,4.53,121,Private room,Suburbs,200.25
+4,1,1.9,54,88.9,1.78,254,Entire home/apt,City Center,1401.32
+4,2,1.5,165,92.6,4.88,138,Hotel room,City Center,225.81
+2,1,1.2,146,92.0,3.69,142,Entire home/apt,Waterfront,428.82
+7,3,1.9,156,82.1,4.71,118,Private room,Historic Quarter,473.26
+2,1,1.0,160,94.0,4.18,99,Private room,Downtown,293.15
+11,5,3.5,111,90.4,2.86,167,Entire home/apt,Suburbs,638.78
+6,3,1.8,132,91.9,4.03,226,Private room,City Center,561.32
+4,1,1.2,194,87.6,4.41,84,Hotel room,Suburbs,119.39
+2,1,1.8,196,86.5,5.91,38,Private room,City Center,165.91
+6,3,1.7,169,96.4,4.08,120,Private room,Suburbs,432.4
+7,3,2.4,177,97.5,3.82,131,Shared room,Business District,311.62
+6,3,1.8,136,94.1,3.73,166,Entire home/apt,City Center,600.35
+6,3,2.6,145,82.9,3.44,188,Entire home/apt,Suburbs,622.23
+3,1,1.0,188,94.4,5.71,36,Private room,Downtown,103.68
+6,2,1.3,110,83.0,2.53,140,Entire home/apt,Business District,915.96
+4,1,1.2,155,88.7,4.03,140,Private room,Business District,257.27
+9,4,2.9,172,96.3,3.59,115,Shared room,Downtown,288.37
+5,2,1.8,149,95.3,4.13,41,Entire home/apt,Suburbs,577.83
+3,1,1.3,155,94.3,3.49,113,Entire home/apt,Waterfront,515.57
+3,1,1.8,104,98.6,2.95,178,Private room,Downtown,693.65
+3,1,2.0,146,94.8,3.44,104,Entire home/apt,Suburbs,552.51
+4,1,1.6,103,81.9,1.55,180,Private room,Downtown,678.01
+8,3,2.0,160,90.2,4.07,142,Entire home/apt,Downtown,429.91
+5,2,1.7,144,91.8,3.64,118,Private room,City Center,413.06
+8,4,2.2,189,91.2,5.17,52,Entire home/apt,Suburbs,450.82
+5,2,1.8,162,88.9,4.83,73,Private room,Waterfront,403.56
+2,1,1.0,168,86.8,5.16,151,Entire home/apt,City Center,471.33
+7,3,2.4,202,100.0,5.48,75,Private room,Downtown,393.4
+7,3,2.8,129,90.1,3.36,96,Entire home/apt,Historic Quarter,545.0
+6,2,2.0,151,100.0,3.06,109,Private room,Downtown,568.67
+6,3,2.1,158,86.3,4.05,143,Shared room,Downtown,177.11
+4,2,2.0,167,95.3,4.28,152,Entire home/apt,Suburbs,394.33
+6,2,2.3,182,93.1,4.45,117,Entire home/apt,Suburbs,525.41
+6,2,2.3,151,87.4,4.09,127,Entire home/apt,City Center,364.39
+4,1,1.1,147,89.7,4.24,86,Private room,Waterfront,352.79
+4,1,1.6,164,91.9,3.69,145,Private room,City Center,333.41
+2,1,1.4,210,87.8,4.83,41,Entire home/apt,Business District,303.62
+4,2,2.0,181,90.7,4.46,95,Entire home/apt,Downtown,339.43
+3,1,1.5,158,80.2,3.64,122,Entire home/apt,Historic Quarter,229.07
+5,2,1.1,208,95.6,4.38,12,Private room,Downtown,210.3
+10,4,2.5,105,98.1,2.13,218,Entire home/apt,Downtown,616.31
+4,1,1.5,202,94.3,4.43,68,Hotel room,City Center,406.19
+6,2,1.4,159,100.0,4.58,113,Entire home/apt,Historic Quarter,576.37
+7,3,2.4,205,95.4,5.98,71,Private room,Historic Quarter,299.07
+3,1,1.0,118,97.7,2.4,146,Entire home/apt,Historic Quarter,489.79
+3,1,1.2,145,98.2,3.9,139,Entire home/apt,City Center,583.17
+3,1,1.8,180,78.2,4.94,95,Private room,Downtown,165.81
+3,1,1.1,142,94.1,2.8,99,Private room,City Center,369.04
+9,4,2.8,108,85.1,2.78,201,Hotel room,Suburbs,654.39
+7,3,1.7,161,86.1,5.29,145,Entire home/apt,Suburbs,488.38
+6,2,2.4,128,87.0,3.54,163,Entire home/apt,City Center,830.67
+10,4,2.5,187,90.4,4.55,83,Private room,Historic Quarter,381.89
+8,3,2.2,161,95.3,3.74,140,Private room,Downtown,289.02
+4,1,1.5,134,94.2,2.34,152,Entire home/apt,City Center,625.7
+9,4,2.8,31,91.9,1.01,309,Entire home/apt,City Center,1409.37
+4,2,1.3,175,95.6,5.35,67,Entire home/apt,City Center,550.95
+7,3,2.2,147,95.9,3.27,144,Shared room,Business District,538.03
+8,4,2.4,161,94.2,3.06,113,Entire home/apt,Suburbs,525.72
+4,1,1.0,183,83.4,4.24,105,Entire home/apt,Historic Quarter,318.3
+3,1,1.7,176,88.3,4.84,117,Entire home/apt,Waterfront,528.41
+4,1,1.3,126,92.1,2.94,199,Entire home/apt,Historic Quarter,565.08
+5,2,1.9,167,95.7,3.76,99,Entire home/apt,Waterfront,468.99
+8,3,2.3,126,85.4,3.16,110,Entire home/apt,Business District,726.91
+8,4,2.5,191,91.9,4.89,100,Entire home/apt,City Center,505.2
+2,1,2.0,162,84.2,3.36,134,Private room,Business District,204.06
+4,2,1.8,140,97.1,3.39,135,Entire home/apt,Business District,830.07
+5,2,1.3,123,93.2,2.83,197,Entire home/apt,Downtown,831.85
+2,1,1.3,186,85.3,4.33,42,Shared room,Suburbs,197.88
+3,1,1.5,106,85.2,2.14,236,Private room,Waterfront,945.19
+2,1,1.6,182,93.9,5.02,81,Entire home/apt,City Center,440.67
+8,4,2.3,142,98.9,3.23,127,Entire home/apt,Waterfront,630.83
+3,1,1.7,121,86.5,2.03,164,Entire home/apt,Historic Quarter,476.92
+5,2,1.3,173,95.9,4.46,98,Private room,Waterfront,506.55
+6,3,2.5,169,89.3,4.59,111,Hotel room,Historic Quarter,512.4
+5,2,1.4,167,96.1,3.78,115,Private room,Suburbs,439.25
+10,5,2.9,142,95.4,3.27,139,Private room,Historic Quarter,350.86
+11,5,3.3,151,92.8,3.45,144,Private room,Waterfront,291.06
+4,1,1.4,80,82.8,1.83,245,Entire home/apt,Waterfront,821.65
+6,2,2.0,165,95.4,4.68,98,Entire home/apt,Historic Quarter,440.37
+4,1,1.6,139,94.5,3.42,132,Private room,Business District,333.76
+4,1,1.8,121,94.1,3.44,201,Hotel room,Suburbs,445.66
+4,1,1.7,120,93.0,2.52,200,Entire home/apt,Downtown,1046.11
+4,2,1.7,173,87.6,4.13,107,Private room,City Center,417.33
+6,2,2.0,147,97.4,4.15,172,Entire home/apt,Waterfront,463.11
+4,1,1.0,156,96.5,3.5,72,Entire home/apt,City Center,403.55
+4,1,1.4,103,86.6,3.08,193,Entire home/apt,Downtown,486.04
+10,4,2.8,171,98.6,3.96,73,Entire home/apt,City Center,473.22
+3,1,1.4,151,92.7,3.61,206,Private room,Downtown,349.26
+2,1,1.5,158,92.6,4.79,149,Entire home/apt,Historic Quarter,483.19
+6,2,1.7,55,91.1,1.16,280,Private room,Business District,942.79
+12,5,3.3,170,91.6,4.32,133,Private room,Waterfront,487.12
+4,1,1.4,177,98.9,4.73,132,Shared room,Downtown,75.08
+6,3,2.1,0,97.2,0.11,365,Entire home/apt,City Center,1898.29
+7,3,2.5,110,97.1,2.88,227,Entire home/apt,Waterfront,832.02
+2,1,1.0,55,92.9,1.35,274,Entire home/apt,Business District,1323.1
+7,3,2.4,192,96.4,4.15,61,Hotel room,Historic Quarter,286.51
+6,2,1.5,161,87.8,4.2,94,Shared room,Waterfront,301.88
+6,2,2.2,157,94.9,3.56,144,Entire home/apt,Downtown,699.74
+4,2,1.7,155,91.2,4.26,127,Private room,Business District,510.02
+4,2,1.8,157,81.7,4.61,116,Entire home/apt,City Center,600.86
+3,1,1.5,190,84.1,3.85,65,Private room,Business District,99.09
+7,3,1.6,189,88.7,5.41,125,Entire home/apt,Business District,359.34
+2,1,1.2,93,94.1,2.12,254,Private room,Suburbs,838.78
+3,1,1.7,94,88.7,2.28,278,Entire home/apt,Business District,1082.08
+2,1,1.7,159,89.0,3.52,142,Private room,Business District,322.76
+5,2,1.9,146,95.8,3.74,147,Private room,Waterfront,817.93
+6,3,1.8,202,89.2,5.08,61,Private room,City Center,270.46
+2,1,1.6,163,98.7,4.61,89,Entire home/apt,Waterfront,367.01
+4,2,2.0,136,97.8,3.03,123,Entire home/apt,Waterfront,372.1
+3,1,1.4,172,92.1,5.13,122,Entire home/apt,Downtown,360.23
+5,2,2.2,95,95.8,2.71,194,Entire home/apt,Waterfront,714.43
+3,1,1.2,196,95.1,4.95,77,Entire home/apt,Suburbs,358.75
+6,3,2.0,57,90.8,1.33,312,Shared room,Suburbs,1328.3
+5,2,1.1,150,96.3,3.6,120,Private room,Downtown,489.43
+9,4,2.9,94,97.0,2.23,284,Entire home/apt,Historic Quarter,919.16
+2,1,1.5,121,87.2,3.11,153,Entire home/apt,City Center,607.38
+4,1,1.0,129,92.8,3.12,201,Entire home/apt,City Center,850.9
+2,1,1.0,176,92.7,4.08,113,Private room,Waterfront,208.07
+9,4,2.3,93,96.2,2.41,261,Entire home/apt,Waterfront,1074.41
+8,4,2.8,134,89.8,2.93,130,Shared room,Historic Quarter,452.85
+4,1,1.3,132,89.0,3.46,236,Entire home/apt,Waterfront,848.83
+6,3,2.0,193,92.8,4.71,70,Hotel room,City Center,260.57
+7,3,1.9,153,97.9,4.17,155,Shared room,Business District,421.59
+6,2,1.5,168,86.0,4.69,156,Entire home/apt,Suburbs,563.79
+5,2,1.2,173,86.9,4.82,87,Shared room,Business District,239.96
+4,1,1.0,159,89.4,4.13,151,Entire home/apt,Business District,562.34
+4,1,1.1,82,90.3,2.27,218,Private room,City Center,849.83
+8,4,2.8,157,83.2,3.76,171,Entire home/apt,Business District,499.59
+8,4,2.6,126,99.5,3.49,153,Shared room,Historic Quarter,683.8
+5,2,1.6,185,91.3,5.02,88,Shared room,Downtown,179.52
+2,1,2.1,82,90.6,1.27,251,Private room,Waterfront,1192.17
+2,1,1.2,148,100.0,3.89,166,Private room,Downtown,543.89
+8,3,2.6,94,95.6,3.03,283,Entire home/apt,Suburbs,1178.71
+8,4,3.1,110,89.3,2.57,186,Entire home/apt,Waterfront,779.03
+10,4,2.1,141,92.8,3.24,187,Entire home/apt,Business District,701.49
+8,3,2.2,146,91.8,3.44,205,Entire home/apt,Suburbs,776.57
+6,2,1.6,136,99.2,2.65,165,Private room,Waterfront,357.22
+3,1,1.2,155,91.2,3.94,115,Entire home/apt,Historic Quarter,286.31
+3,1,1.6,137,84.8,3.44,107,Hotel room,Historic Quarter,476.1
+9,4,2.4,143,82.6,3.67,206,Private room,Historic Quarter,341.9
+6,2,1.7,168,99.4,4.41,105,Private room,Historic Quarter,222.16
+3,1,1.3,155,88.1,3.48,102,Entire home/apt,Business District,648.44
+3,1,1.3,203,95.4,5.21,19,Shared room,Downtown,252.02
+6,3,1.8,135,92.4,3.6,132,Shared room,Waterfront,667.74
+3,1,1.6,156,89.9,3.66,158,Entire home/apt,Business District,367.7
+3,1,1.7,189,90.7,4.94,113,Private room,Historic Quarter,261.37
+6,2,1.9,81,99.9,2.07,263,Private room,Downtown,714.89
+8,3,2.1,115,84.8,2.56,196,Entire home/apt,Suburbs,634.39
+8,3,2.0,115,90.1,3.02,155,Entire home/apt,Suburbs,377.42
+4,1,1.2,123,96.5,2.93,158,Entire home/apt,Suburbs,549.2
+8,3,2.9,79,85.6,2.32,213,Entire home/apt,Historic Quarter,1050.93
+4,1,1.7,188,98.6,4.58,100,Entire home/apt,Suburbs,410.21
+3,1,1.1,81,96.5,1.38,211,Entire home/apt,City Center,637.36
+8,3,2.2,147,93.4,3.81,123,Entire home/apt,Waterfront,440.3
+6,2,1.7,161,89.5,4.14,117,Entire home/apt,Waterfront,507.16
+6,3,2.4,132,84.9,2.76,116,Hotel room,Historic Quarter,761.2
+7,3,2.4,167,95.5,4.55,115,Entire home/apt,City Center,620.31
+5,2,2.1,122,100.0,3.4,178,Hotel room,Business District,802.7
+3,1,1.1,148,92.7,3.27,178,Entire home/apt,Business District,590.36
+6,2,1.8,17,82.9,0.1,314,Entire home/apt,Suburbs,1462.29
+4,1,1.0,151,94.3,3.7,99,Entire home/apt,Downtown,290.38
+4,1,1.0,119,96.3,2.6,175,Entire home/apt,Business District,452.69
+10,5,3.3,162,87.4,4.37,89,Entire home/apt,Downtown,493.94
+6,2,1.5,183,88.8,4.65,91,Private room,Waterfront,231.22
+8,4,2.3,160,88.3,3.45,69,Entire home/apt,Downtown,462.2
+5,2,1.8,140,89.3,3.09,136,Private room,Waterfront,418.73
+8,3,2.4,133,91.1,3.92,137,Private room,City Center,471.92
+4,2,1.5,141,87.7,4.29,170,Entire home/apt,City Center,630.92
+4,2,1.0,149,85.8,3.99,117,Entire home/apt,Historic Quarter,369.97
+6,2,1.5,147,92.9,3.57,92,Private room,Historic Quarter,324.49
+3,1,1.8,155,91.1,3.66,126,Entire home/apt,Suburbs,346.95
+7,3,2.3,104,89.8,2.87,218,Entire home/apt,Business District,824.62
+3,1,1.8,158,92.4,3.99,119,Hotel room,Suburbs,237.8
+2,1,1.1,130,84.4,2.44,151,Entire home/apt,Waterfront,453.3
+4,2,1.3,157,93.3,4.44,109,Private room,Suburbs,516.67
+2,1,1.5,204,89.9,5.77,62,Hotel room,Downtown,270.46
+8,4,2.7,120,93.2,3.37,158,Entire home/apt,Waterfront,785.61
+11,5,3.1,85,94.0,1.58,227,Entire home/apt,Historic Quarter,1188.78
+10,4,2.9,145,97.7,3.31,170,Entire home/apt,City Center,653.63
+4,2,1.9,130,92.5,2.32,130,Entire home/apt,Historic Quarter,772.72
+2,1,1.5,157,97.3,4.72,128,Entire home/apt,Business District,256.1
+9,4,2.8,195,90.4,4.7,18,Private room,Waterfront,387.75
+6,2,2.0,127,90.6,4.34,181,Entire home/apt,Waterfront,572.55
+12,5,3.3,163,91.5,5.05,91,Entire home/apt,Downtown,497.27
+11,5,3.3,152,95.9,3.35,167,Hotel room,Business District,577.67
+9,4,3.1,84,95.2,1.75,194,Private room,City Center,759.8
+4,1,1.2,181,92.7,4.76,106,Private room,Waterfront,117.95
+4,2,1.9,164,85.9,3.22,155,Entire home/apt,Waterfront,363.37
+10,4,2.5,152,95.1,3.58,106,Private room,Downtown,502.53
+3,1,1.1,146,87.7,3.38,120,Entire home/apt,Suburbs,599.52
+2,1,1.2,147,87.4,4.6,116,Entire home/apt,City Center,679.2
+4,2,1.9,144,86.3,3.68,134,Entire home/apt,Historic Quarter,556.37
+9,4,2.7,154,91.6,3.71,149,Shared room,Business District,529.81
+7,3,2.3,117,98.1,2.61,172,Entire home/apt,Waterfront,813.37
+5,2,1.7,133,87.2,3.77,131,Entire home/apt,Waterfront,460.02
+4,1,1.4,161,100.0,3.78,62,Entire home/apt,Historic Quarter,391.43
+6,2,2.0,164,96.5,4.07,167,Entire home/apt,City Center,501.37
+10,5,2.6,167,84.7,3.86,164,Private room,Suburbs,545.83
+3,1,1.4,187,90.1,3.92,101,Private room,Waterfront,234.63
+4,2,1.8,195,86.8,4.38,48,Private room,City Center,313.27
+8,4,2.8,138,95.3,3.2,180,Entire home/apt,Historic Quarter,703.29
+6,3,1.8,156,87.1,3.77,159,Entire home/apt,Downtown,606.53
+6,3,2.6,164,83.9,3.99,111,Entire home/apt,Suburbs,538.34
+7,3,2.3,159,90.4,3.93,127,Entire home/apt,Business District,357.31
+4,2,1.9,161,97.8,3.78,160,Entire home/apt,Waterfront,532.73
+3,1,1.3,161,91.0,4.7,74,Private room,City Center,196.31
+7,3,2.4,122,94.0,3.52,211,Entire home/apt,Downtown,841.42
+8,3,2.2,159,94.2,3.91,117,Entire home/apt,Business District,517.05
+9,4,3.0,174,84.4,4.48,70,Entire home/apt,City Center,463.41
+10,4,2.2,156,87.5,3.71,100,Entire home/apt,City Center,601.34
+5,2,1.9,129,92.0,1.8,145,Entire home/apt,Business District,914.7
+5,2,1.9,141,89.2,3.54,117,Hotel room,Downtown,566.84
+7,3,2.1,146,100.0,3.8,199,Private room,Historic Quarter,470.46
+6,2,1.7,171,85.9,3.47,123,Hotel room,Downtown,230.47
+8,3,2.1,93,87.5,2.57,257,Entire home/apt,Suburbs,1122.18
+6,3,2.3,116,93.5,2.76,207,Entire home/apt,Waterfront,469.63
+10,4,2.1,140,88.9,3.67,156,Entire home/apt,Business District,863.89
+4,1,1.7,157,77.5,3.8,131,Entire home/apt,Historic Quarter,434.3
+6,2,1.7,131,100.0,3.9,156,Private room,Business District,601.11
+4,1,1.4,60,86.6,1.61,265,Entire home/apt,Business District,890.38
+4,2,1.9,130,94.8,3.75,127,Entire home/apt,Downtown,691.92
+4,1,1.2,127,85.7,3.72,206,Entire home/apt,Waterfront,684.77
+5,2,1.8,130,87.7,2.69,115,Entire home/apt,Suburbs,514.31
+5,2,1.2,155,83.9,3.51,100,Private room,City Center,307.0
+4,1,1.6,147,88.3,3.9,204,Entire home/apt,City Center,522.28
+6,2,2.1,141,88.8,3.34,157,Entire home/apt,Business District,471.91
+3,1,1.0,48,91.3,1.08,298,Entire home/apt,Waterfront,1625.22
+3,1,1.3,150,90.1,4.39,159,Entire home/apt,Historic Quarter,343.83
+6,3,1.8,133,84.8,3.17,119,Private room,Downtown,698.31
+5,2,1.7,177,89.4,3.94,57,Shared room,Waterfront,464.75
+3,1,1.6,156,99.2,3.48,117,Hotel room,Waterfront,422.74
+6,2,2.1,121,98.6,4.12,156,Private room,Downtown,860.27
+7,3,2.5,141,94.3,3.44,151,Entire home/apt,Business District,638.8
+2,1,1.8,176,95.3,3.72,115,Private room,Waterfront,237.81
+5,2,1.7,138,100.0,2.57,199,Entire home/apt,City Center,597.21
+4,1,1.1,142,94.9,3.24,176,Entire home/apt,Downtown,458.73
+4,1,1.4,156,95.2,3.8,101,Private room,Historic Quarter,460.97
+5,2,2.0,120,84.2,3.47,173,Entire home/apt,Suburbs,743.09
+6,2,1.4,210,86.4,5.68,30,Shared room,Business District,209.14
+4,2,2.3,127,91.8,3.17,144,Entire home/apt,Downtown,883.1
+6,3,2.5,133,88.0,3.1,128,Private room,Suburbs,376.14
+11,5,2.9,111,87.0,2.94,248,Private room,Suburbs,605.11
+5,2,1.6,148,87.6,2.83,143,Shared room,Historic Quarter,492.83
+3,1,1.2,149,84.9,4.72,134,Private room,Waterfront,425.66
+8,3,2.2,156,88.0,4.23,145,Private room,Historic Quarter,402.3
+2,1,1.3,172,93.7,4.73,123,Entire home/apt,Waterfront,408.71
+4,2,2.1,157,100.0,3.39,163,Entire home/apt,Waterfront,483.74
+4,1,1.3,104,96.0,3.24,186,Entire home/apt,Downtown,1012.81
+2,1,1.6,208,95.2,4.97,65,Private room,Downtown,208.33
+11,5,3.0,118,83.9,2.47,160,Entire home/apt,Business District,536.57
+7,3,2.3,171,92.6,4.26,102,Private room,Waterfront,300.93
+7,3,2.1,128,91.7,3.17,174,Entire home/apt,Suburbs,601.73
+4,2,2.0,195,93.5,4.34,77,Entire home/apt,City Center,333.57
+3,1,1.6,140,90.2,3.05,158,Private room,Business District,158.01
+4,1,1.5,112,100.0,2.31,221,Entire home/apt,Downtown,445.11
+4,1,1.6,174,92.3,3.87,86,Entire home/apt,Historic Quarter,313.97
+4,2,1.5,186,92.8,4.46,91,Entire home/apt,Business District,361.69
+8,3,2.3,187,82.2,3.98,61,Hotel room,Business District,274.67
+8,3,2.6,154,91.5,3.5,221,Private room,Business District,290.63
+2,1,1.5,162,97.7,4.57,94,Entire home/apt,Business District,677.07
+11,5,2.7,84,94.8,2.51,217,Entire home/apt,City Center,911.62
+7,3,2.2,96,81.2,1.88,247,Entire home/apt,Historic Quarter,1294.52
+5,2,1.9,69,89.8,2.2,248,Private room,Historic Quarter,1081.59
+4,2,1.6,134,100.0,2.37,190,Private room,Historic Quarter,584.44
+6,2,1.4,131,91.2,4.49,173,Entire home/apt,Waterfront,817.73
+3,1,1.3,118,93.6,3.6,175,Entire home/apt,Suburbs,520.72
+5,2,1.6,163,100.0,3.8,97,Entire home/apt,Historic Quarter,655.48
+6,3,2.2,76,91.2,2.09,227,Private room,Business District,1160.2
+3,1,1.0,160,96.0,3.3,113,Private room,Business District,426.62
+2,1,1.6,140,94.1,3.53,149,Entire home/apt,Historic Quarter,826.06
+4,1,1.2,149,95.1,3.63,116,Entire home/apt,Historic Quarter,350.34
+2,1,1.7,182,93.9,4.13,88,Entire home/apt,Business District,383.56
+8,4,2.5,176,89.3,4.17,68,Hotel room,Waterfront,562.09
+6,3,2.2,126,89.8,2.87,198,Entire home/apt,Downtown,604.82
+4,2,1.7,199,87.7,4.41,94,Private room,Downtown,279.86
+4,1,1.2,22,83.8,0.12,310,Private room,Historic Quarter,1423.56
+6,2,2.5,150,98.2,3.03,117,Entire home/apt,City Center,569.81
+5,2,1.7,129,92.1,3.65,176,Entire home/apt,Historic Quarter,455.65
+4,1,1.7,166,98.0,3.68,153,Entire home/apt,Historic Quarter,525.19
+6,2,1.5,178,99.8,3.84,142,Private room,Downtown,388.56
+5,2,1.9,199,92.3,5.4,24,Private room,Business District,423.2
+6,2,1.9,210,85.4,5.43,80,Private room,Historic Quarter,178.15
+4,2,1.8,104,91.0,3.0,207,Entire home/apt,Business District,923.87
+2,1,1.2,87,88.6,2.63,233,Entire home/apt,Business District,909.0
+5,2,1.7,122,82.1,4.02,197,Hotel room,City Center,885.63
+5,2,1.7,153,89.5,3.75,121,Private room,Business District,455.33
+5,2,2.5,161,91.6,3.3,156,Entire home/apt,Downtown,696.17
+8,4,2.6,120,88.8,3.14,227,Hotel room,Waterfront,358.28
+8,3,2.4,179,88.1,4.14,140,Private room,Waterfront,639.59
+2,1,1.9,170,85.6,3.77,54,Private room,Suburbs,397.81
+3,1,1.1,157,93.0,3.97,122,Private room,Historic Quarter,262.95
+6,2,1.8,153,100.0,4.26,77,Private room,Downtown,610.19
+4,1,1.3,167,98.4,3.76,91,Private room,Business District,583.36
+4,2,1.8,147,95.3,4.31,72,Entire home/apt,Waterfront,545.78
+9,4,2.5,93,95.4,1.83,239,Entire home/apt,Downtown,713.75
+4,2,1.6,175,91.3,4.25,109,Shared room,Waterfront,189.54
+6,2,1.9,130,83.0,3.44,157,Entire home/apt,Business District,902.99
+4,2,1.5,170,90.2,4.06,86,Entire home/apt,Waterfront,394.45
+4,2,2.1,155,87.2,2.99,141,Entire home/apt,Historic Quarter,418.37
+5,2,2.0,171,92.8,4.74,78,Entire home/apt,Historic Quarter,546.13
+9,4,2.5,136,98.2,3.09,128,Private room,Suburbs,780.76
+6,2,1.7,150,100.0,4.12,103,Shared room,Suburbs,660.54
+10,5,3.1,126,92.3,2.52,169,Entire home/apt,Waterfront,652.47
+8,4,2.4,108,83.7,2.15,185,Entire home/apt,Downtown,810.2
+2,1,1.9,137,92.3,3.86,147,Entire home/apt,Historic Quarter,281.03
+4,1,1.5,176,92.4,4.57,116,Shared room,Downtown,186.56
+4,1,1.5,195,95.4,4.66,101,Private room,Downtown,229.22
+3,1,1.6,109,91.9,2.9,245,Entire home/apt,Waterfront,866.81
+3,1,1.2,158,92.3,3.47,129,Private room,Downtown,503.85
+7,3,2.5,179,88.8,4.53,106,Shared room,Historic Quarter,422.5
+2,1,1.4,166,90.4,4.21,121,Private room,Business District,404.84
+2,1,1.7,126,94.6,2.96,125,Shared room,Suburbs,824.44
+7,3,2.1,118,82.0,2.53,176,Entire home/apt,Business District,541.07
+2,1,1.8,177,90.4,4.46,88,Private room,Downtown,161.56
+7,3,2.3,146,95.4,3.62,130,Entire home/apt,Business District,880.18
+4,1,2.1,163,100.0,3.84,119,Private room,Historic Quarter,381.87
+3,1,1.3,177,90.0,3.91,92,Private room,Historic Quarter,600.9
+8,3,2.3,144,97.9,3.61,119,Private room,Downtown,414.6
+4,2,1.5,179,100.0,4.24,91,Private room,Waterfront,251.59
+9,4,2.4,121,90.1,2.51,164,Entire home/apt,Business District,704.59
+6,3,2.4,154,89.2,3.87,55,Entire home/apt,Waterfront,575.47
+8,3,2.5,168,91.1,5.0,71,Hotel room,Waterfront,492.56
+4,1,2.3,127,91.6,2.99,177,Shared room,City Center,849.52
+4,1,1.4,187,97.5,5.42,117,Entire home/apt,Downtown,332.47
+6,3,1.9,136,88.1,4.46,88,Entire home/apt,Suburbs,635.83
+6,3,2.4,151,99.7,3.3,112,Entire home/apt,Historic Quarter,443.98
+10,5,2.7,140,88.0,3.5,167,Private room,Historic Quarter,240.46
+4,2,2.0,175,85.7,5.43,128,Private room,Downtown,373.78
+6,2,1.6,149,94.6,3.66,128,Entire home/apt,Suburbs,539.7
+8,3,2.3,126,98.2,3.17,155,Entire home/apt,Historic Quarter,724.71
+3,1,1.7,165,92.9,3.29,154,Private room,Downtown,302.63
+9,4,2.6,172,94.2,4.03,130,Private room,Historic Quarter,266.46
+8,4,2.9,146,100.0,3.93,171,Entire home/apt,Waterfront,483.56
+6,2,2.1,110,98.2,3.96,185,Private room,Business District,784.81
+8,3,1.6,160,92.2,3.9,158,Entire home/apt,Business District,441.84
+8,3,1.9,99,89.8,1.64,158,Entire home/apt,Historic Quarter,1102.1
+3,1,1.0,120,97.5,2.3,218,Private room,City Center,636.05
+9,4,3.2,151,96.1,3.76,136,Private room,Suburbs,405.55
+6,2,1.8,173,94.1,4.91,109,Shared room,Suburbs,225.29
+8,3,2.7,128,90.4,3.52,144,Private room,Suburbs,715.27
+4,1,1.0,167,91.6,4.41,60,Private room,Waterfront,298.56
+9,4,2.4,172,91.3,4.95,110,Entire home/apt,Suburbs,411.9
+6,2,2.0,100,90.4,2.14,231,Entire home/apt,Business District,667.23
+4,1,1.5,111,89.0,2.78,219,Entire home/apt,Waterfront,588.29
+8,4,2.8,109,93.3,2.46,219,Entire home/apt,Downtown,939.88
+2,1,1.0,145,88.8,3.49,158,Private room,Suburbs,421.25
+3,1,1.8,189,92.9,4.22,53,Hotel room,Suburbs,279.83
+12,5,3.2,119,81.5,2.8,209,Entire home/apt,Downtown,1034.26
+12,5,3.1,96,89.0,2.39,189,Entire home/apt,Suburbs,1077.2
+4,2,1.6,135,97.5,3.19,195,Private room,Downtown,433.51
+5,2,1.9,166,87.5,4.07,113,Entire home/apt,Waterfront,545.72
+4,2,1.7,183,95.0,4.78,88,Private room,Business District,200.73
+2,1,1.0,146,87.9,4.27,171,Private room,Downtown,241.58
+2,1,1.4,118,95.9,3.61,218,Private room,City Center,536.31
+6,3,2.2,182,90.5,4.93,115,Entire home/apt,Downtown,478.67
+8,3,2.5,189,90.3,4.1,56,Entire home/apt,Suburbs,379.12
+8,3,1.5,0,92.3,0.0,365,Private room,Waterfront,2806.13
+6,3,2.3,149,85.3,3.59,117,Private room,Historic Quarter,228.57
+3,1,1.1,77,96.9,1.6,273,Entire home/apt,Waterfront,1451.41
+5,2,1.9,166,98.5,4.32,73,Private room,Historic Quarter,327.27
+3,1,1.5,166,90.2,3.35,113,Entire home/apt,Downtown,476.94
+5,2,1.8,171,94.6,5.12,83,Private room,Business District,272.75
+4,2,2.0,139,95.9,4.07,182,Entire home/apt,City Center,733.33
+10,4,2.2,170,91.5,4.49,143,Hotel room,Waterfront,300.55
+5,2,2.1,160,86.5,3.97,130,Entire home/apt,Suburbs,310.52
+2,1,1.2,117,100.0,3.54,194,Entire home/apt,Historic Quarter,1036.15
+3,1,1.0,167,90.0,4.52,135,Entire home/apt,Suburbs,365.83
+7,3,2.1,136,89.0,3.95,194,Entire home/apt,Business District,761.7
+4,2,1.2,184,100.0,4.57,90,Shared room,Historic Quarter,183.85
+4,1,1.5,135,95.1,4.27,147,Hotel room,Waterfront,550.04
+4,1,1.3,124,93.3,3.68,198,Entire home/apt,Downtown,1075.59
+6,3,2.6,158,87.1,4.2,72,Entire home/apt,Suburbs,483.03
+4,1,1.6,181,96.0,5.15,120,Private room,Business District,114.52
+6,3,1.8,128,100.0,2.99,151,Shared room,Waterfront,968.47
+6,3,1.9,106,96.4,2.07,198,Private room,Waterfront,671.25
+2,1,1.6,203,94.5,5.24,87,Entire home/apt,Waterfront,410.96
+4,1,1.7,151,95.6,3.75,126,Entire home/apt,Waterfront,452.56
+10,5,3.4,140,90.4,3.4,174,Private room,Historic Quarter,341.24
+5,2,2.2,139,90.3,4.08,190,Entire home/apt,Waterfront,981.79
+6,2,1.8,161,90.2,4.11,126,Private room,Suburbs,291.92
+8,3,2.3,166,89.1,4.28,125,Entire home/apt,Business District,382.34
+10,4,3.0,163,90.2,3.91,116,Private room,Historic Quarter,509.03
+12,5,2.9,171,90.2,4.72,111,Entire home/apt,Waterfront,519.02
+7,3,2.3,179,90.8,4.83,63,Private room,City Center,269.73
+6,2,1.7,141,90.6,3.96,144,Entire home/apt,City Center,457.59
+4,1,1.2,168,93.2,3.95,74,Private room,Business District,361.16
+6,3,2.2,153,92.4,4.48,108,Entire home/apt,Downtown,385.59
+6,2,1.6,123,92.8,3.99,120,Private room,Downtown,815.5
+5,2,1.8,177,99.6,4.85,107,Private room,Historic Quarter,550.56
+9,4,2.3,175,92.4,3.97,153,Private room,Historic Quarter,397.79
+3,1,1.3,183,100.0,4.17,76,Private room,Historic Quarter,203.92
+5,2,1.9,178,93.8,4.26,126,Private room,Downtown,366.05
+4,1,1.2,158,89.8,3.67,161,Private room,City Center,581.98
+6,2,1.8,106,98.7,2.61,170,Entire home/apt,Downtown,721.23
+3,1,1.4,136,91.6,3.72,131,Private room,Suburbs,639.26
+3,1,1.5,210,80.0,5.39,79,Entire home/apt,Waterfront,409.94
+4,1,1.4,202,92.0,5.15,59,Entire home/apt,Historic Quarter,217.66
+5,2,2.1,99,90.8,2.35,177,Entire home/apt,City Center,904.95
+6,3,1.6,133,100.0,3.29,146,Entire home/apt,Business District,541.61
+5,2,2.7,132,87.5,3.7,179,Private room,Business District,547.27
+11,5,2.7,109,90.3,1.72,177,Private room,Waterfront,1077.76
+4,2,1.9,83,98.3,2.07,157,Private room,City Center,1486.67
+2,1,1.1,173,94.0,4.47,95,Entire home/apt,Downtown,385.78
+10,4,2.8,139,91.1,3.87,149,Entire home/apt,Downtown,641.34
+4,1,1.5,99,88.2,1.97,216,Entire home/apt,Suburbs,917.13
+10,5,2.8,154,93.8,3.32,171,Entire home/apt,Suburbs,520.91
+2,1,1.7,144,91.9,3.89,150,Entire home/apt,Downtown,395.14
+12,5,3.0,105,88.2,1.67,214,Entire home/apt,Business District,554.3
+3,1,1.6,183,88.4,5.24,122,Entire home/apt,Historic Quarter,487.86
+8,4,2.3,137,87.9,3.54,159,Private room,Business District,422.18
+6,2,1.8,165,87.0,4.9,181,Private room,Suburbs,283.5
+11,5,3.6,174,96.7,3.81,66,Hotel room,Waterfront,386.79
+2,1,1.7,177,96.0,4.21,71,Shared room,Downtown,512.72
+5,2,1.9,125,96.7,1.92,195,Private room,Suburbs,794.07
+12,5,2.9,62,92.0,1.15,309,Entire home/apt,Suburbs,1131.65
+4,2,1.8,163,90.8,3.98,114,Private room,Historic Quarter,299.83
+5,2,1.9,125,90.9,2.14,147,Private room,Downtown,606.5
+6,3,2.3,136,97.1,3.2,213,Entire home/apt,Historic Quarter,624.23
+5,2,1.5,180,82.9,3.51,71,Entire home/apt,Downtown,436.76
+6,2,2.0,92,89.4,2.17,237,Private room,Historic Quarter,568.0
+6,2,1.5,148,87.6,4.27,182,Entire home/apt,Business District,430.32
+8,4,3.1,150,98.8,3.73,126,Private room,Waterfront,396.06
+3,1,1.2,159,89.6,4.8,107,Private room,Waterfront,155.97
+2,1,1.5,170,83.8,4.64,93,Entire home/apt,Downtown,412.37
+10,5,3.3,100,93.1,3.17,242,Entire home/apt,City Center,708.29
+9,4,2.5,60,90.1,1.12,306,Entire home/apt,Suburbs,1134.74
+5,2,1.9,170,89.2,3.86,111,Entire home/apt,Suburbs,469.71
+5,2,2.2,192,88.7,4.97,133,Entire home/apt,Downtown,378.85
+4,1,1.6,115,88.5,2.09,193,Private room,Historic Quarter,828.82
+2,1,1.5,135,95.5,3.61,201,Entire home/apt,City Center,406.34
+4,2,1.3,154,93.1,3.69,121,Entire home/apt,Business District,316.79
+6,2,1.5,164,91.0,4.76,189,Entire home/apt,Historic Quarter,561.15
+5,2,2.1,173,86.5,4.66,152,Shared room,Historic Quarter,284.4
+4,1,1.6,49,91.2,1.77,287,Entire home/apt,Downtown,1485.67
+12,5,3.2,129,93.3,2.85,214,Entire home/apt,Downtown,763.48
+12,5,3.2,155,93.5,4.4,174,Shared room,Suburbs,435.4
